@@ -25,7 +25,7 @@ def VerificarRepitidas(cartas):
                     case "P":
                         paus += "erro"
 
-    for i in cartas:
+main()
         
 
     
